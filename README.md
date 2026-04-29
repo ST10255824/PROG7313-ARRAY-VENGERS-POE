@@ -50,7 +50,7 @@ View the Expense Screen
 Display of Spending Reports
 
 Application was built with :
-Android Developer
+Android Studio
 Java and Kotlin 
 XML Designs
 
@@ -94,7 +94,10 @@ https://github.com/ST10255824/PROG7313-ARRAY-VENGERS-POE.git
 License: 
 This project is for educational purposes 
 
-Link of our video for application 
+Link of our video for code explanation 
 https://drive.google.com/file/d/1eMdnwW-nJS389uC5Hkt9S9CE9xR-WEsK/view?usp=sharing
+
+Link of our demo video
+https://drive.google.com/file/d/1iYfSIsyWcQgV2pLzNijnTUwmFdd-U5oP/view?usp=drivesdk
 
 
